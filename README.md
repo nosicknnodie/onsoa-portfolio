@@ -55,12 +55,10 @@
 
 > 아래 다이어그램은 Notion 포트폴리오에 더 상세 버전이 있습니다.
 
-- Frontend Module Structure
-- Frontend Event Flow
-- System Architecture (K3s 기반)
-- Deployment Pipeline (GitHub Actions → Harbor → Argo CD)
-
-📌 Portfolio (Notion): https://www.notion.so/Frontend-Engineer-React-Full-cycle-Builder-2d29462ba66880a3884cd65372621956?source=copy_link
+- ![Frontend Module Structure](docs/frontend-module-structure.png)
+- ![Frontend Event Flow](docs/frontend-event-flow.png)
+- ![System Architecture (K3s 기반)](docs/system-architecture.png)
+- ![Deployment Pipeline (GitHub Actions → Harbor → Argo CD)](docs/main-branch-deployment-flow.png)
 
 ## Deployment Pipeline (Summary)
 
