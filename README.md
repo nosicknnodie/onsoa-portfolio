@@ -4,7 +4,7 @@
 > 클럽/매치 운영, 출석·기록 관리, 실시간 작전판(포지션 공유), 커뮤니티 소통까지 한 곳에서 해결합니다.
 
 - Live: https://onsoa.net
-- Portfolio (Notion): (여기에 너 Notion 링크 넣기)
+- Portfolio (Notion): [Link](https://www.notion.so/Frontend-Engineer-React-Full-cycle-Builder-2d29462ba66880a3884cd65372621956?source=copy_link)
 - Contact: nosicknnodie@gmail.com
 
 이 레포는 포트폴리오/문서 공개용입니다.
