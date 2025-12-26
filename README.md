@@ -80,7 +80,7 @@
 ## Links
 
 - Live: https://onsoa.net
-- Portfolio (Notion): (여기에 너 Notion 링크 넣기)
+- Portfolio (Notion): [Link](https://www.notion.so/Frontend-Engineer-React-Full-cycle-Builder-2d29462ba66880a3884cd65372621956?source=copy_link)
 - Contact: nosicknnodie@gmail.com
 
 ## Contributing
